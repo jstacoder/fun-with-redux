@@ -1,0 +1,16 @@
+{
+  "name": "fun_with_redux",
+  "version": "0.0.1",
+  "description": "just a little example of having fun with redux on command line",
+  "main": "index.js",
+  "scripts": {
+    "list": "node index.js list"
+  },
+  "keywords": [],
+  "author": "kyle roux<jstacoder@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  }
+}
